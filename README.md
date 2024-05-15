@@ -32,11 +32,16 @@
 
 ## Input:
 
+![Screenshot 2024-05-15 221809](https://github.com/sathyaa22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140483368/033871c3-07e3-4914-a61f-9261ad970080)
+
+
 ### Output:
 
+![ss](https://github.com/sathyaa22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140483368/ffac0a3e-5dc2-4473-81c2-0a1853bc718f)
 
-### Name:
-### Register Number:
+
+### Name: SATHYAA R
+### Register Number: 212223100052
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
